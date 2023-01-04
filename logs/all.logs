@@ -1,0 +1,4 @@
+time="2023-01-04T13:50:33+05:00" level=info msg="Successful connection to DB" func="github.com/k4zb3k/todo-list/internal/db.GetDbConnection()" file="db.go:32"
+time="2023-01-04T13:50:33+05:00" level=error msg="open /home/k4zb3k/Desktop/todo-list/config/config.json: no such file or directory" func="github.com/k4zb3k/todo-list/config.GetConfig()" file="config.go:17"
+time="2023-01-04T13:50:33+05:00" level=error msg="GetConfig is crashedopen /home/k4zb3k/Desktop/todo-list/config/config.json: no such file or directory" func="main.execute()" file="main.go:45"
+time="2023-01-04T13:51:17+05:00" level=info msg="Successful connection to DB" func="github.com/k4zb3k/todo-list/internal/db.GetDbConnection()" file="db.go:32"
